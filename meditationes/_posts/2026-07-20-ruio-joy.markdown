@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Ruio Joy Review"
+date:   2026-07-20 11:55:02 +1000
+categories: dumbphones review digital-minimalism
+---
+
+After using a dumbed down iPhone 15 pro (greyscale, no animations, almost all apps deleted) for a few months I longed for something less heavy in my pocket and less alluring to my mind. It felt ridiculous having a big heavy expensive slab and not using any of it's features. I had looked at the Dumber Mini and other phones but luckily the Ruio Joy released just in time here in Australia. 
+
+The Ruio Joy is a budget candybar T9 Android phone, coming in at $99 AUD that runs an outdated Android 11. It does not have NFC, a headphone jack, waterproofing, nor volume or power buttons and many other missing items. It has a T9 keypad for classic typing, a 2.8 inch IPS touchscreen, a terrible flashlight/camera, hotspot, GPS, expandable storage, proximity sensor and the ability to run some android apps. The previously mentioned degoogling results in limited app compatibilty and notification issues, the old android version keeps you from banking. But what it does have is simplicity and access apps some find essential such as Signal.
+
+I was able to get my RUIO Joy for $64 AUD with a sale and a coupon. At that price I don't care if this breaks or gets stolen, it's slim and light in my pocket and on my soul. I've personally set it up with InkOS instead of the stock launcher however this breaks the home to lock function, I've worked around this with Key Mapper. I've also enabled greyscale in the developer options as a deterrent but also to make up for mismatched apps, colours and ugliness of old android, makes it a bit cleaner.
+
+I've set it up with the following apps:
+
+* InkOS Launcher
+* Signal
+* PodLP
+* Organic Maps
+* GMaps WV (checking opening hours, phone numbers for businesses)
+* Localsend
+* Aurora Store
+* F-Droid
+* Key Mapper (Allow lock on InkOS)
+* Thunderbird (Notifications off, but still there for showing tickets receipts etc)
+* DuckDuckGo Browser (hidden but there as the default if I need to click a link instead of the default)
+
+
+I'm an immigrant and have my whole family overseas, previously iMessage let me have texting and facetime for keeping in contact with them. I have moved to signal, and it works well on this device for call, text and even video a pinch. But I have also setup an old iPad and disabled all apps except for facetime and signal to create a video call portal to ensure my son sees his grandparents and overseas family. 
+
+I have also started carrying a pocket notebook and pen, purchased a Garmin Drive 53 for my car, and will be getting a pocket camera to allow me to take usable photos of my son and life. I do banking, email and most stuff on my computer at home and leave my phone to just basic use. 
+
+Not only has this device reduced my screentime it has also killed the urge to check it and any urge to reinstall apps. I really like this device for $64 AUD, and I have now sold my iPhone fully commiting to dumb phone life. The only issue so far is that I sometimes forget to bring it with me. I can't see myself going back but I may move to a flip, lightphone or Dumber Mini in the future.
