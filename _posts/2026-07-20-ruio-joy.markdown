@@ -9,6 +9,8 @@ After using a dumbed down iPhone 15 pro (greyscale, no animations, almost all ap
 
 The Ruio Joy is a budget candybar T9 Android phone, coming in at $99 AUD that runs an outdated Android 11. It does not have NFC, a headphone jack, waterproofing, nor volume or power buttons and many other missing items. It has a T9 keypad for classic typing, a 2.8 inch IPS touchscreen, a terrible flashlight/camera, hotspot, GPS, expandable storage, proximity sensor and the ability to run some android apps. The previously mentioned degoogling results in limited app compatibilty and notification issues, the old android version keeps you from banking. But what it does have is simplicity and access apps some find essential such as Signal.
 
+![ruiojoy](/assets/ruio.jpg)
+
 I was able to get my RUIO Joy for $64 AUD with a sale and a coupon. At that price I don't care if this breaks or gets stolen, it's slim and light in my pocket and on my soul. I've personally set it up with InkOS instead of the stock launcher however this breaks the home to lock function, I've worked around this with Key Mapper. I've also enabled greyscale in the developer options as a deterrent but also to make up for mismatched apps, colours and ugliness of old android, makes it a bit cleaner.
 
 I've set it up with the following apps:
