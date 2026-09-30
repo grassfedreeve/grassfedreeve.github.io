@@ -18,18 +18,21 @@ Finch is an alternative keyboard layout inspired by Canary. It uses a thumb alph
 <br>
 # Philosophy
 
-Finch was created out of a personal niche for having extremely row pinky usage, high rolls and not compromising on the standard stats for alternative key layouts. 
+Finch was created out of a personal niche for having extremely row pinky usage, high rolls and not compromising on the standard stats for alternative keyboard layouts. 
 
 <br>
 The Inspiration for Finch came from my previous use of Colemak and Aptmak. Colemak was my first time touch typing and Aptmak brought me to using E on my thumb. However eventually with both I ended up with pinky pain from the load from letters like A, O, and R. Canary interested me due to the high rolls, good flow low pinky usage on the left.
 
 <br>
-Pinky usage is really what separates Finch from other layouts, it's not for everyone but if you want to reduce pinky load without sacrificing the rest of the layout it's a great option. 
+Pinky usage is really what separates Finch from other layouts, it's not for everyone but if you want to reduce pinky load it does that very well. Other attempts such as BEAKL succeed at pinky usage reduction but the rest of the layout suffers gravely. 
 <br>
 ![finch](/assets/finchaklgg.png)
 
-# Statistics 
+# Statistics
 
+Despite the limitations of pinky usage Finch comes out in the top 98th percentile for rolls, bottom 0th percentile for SFB, only 0.08% bad redirects, better than average stretch and scissors, 
+
+<br>
 ```
 MONKEYRACER · SG Left:
   Alt: 23.47%
@@ -69,7 +72,7 @@ Total           29.947    6.024
 # Intended Use
 
 <br>
-Finch was designed with a low keycount hummingbird keyboard such as my 26 key ʻākohekohe in mind. However it does still work with larger hummingbirds or column stagger keyboards.
+Finch was designed with a low keycount hummingbird keyboard such as my 26 key [ʻākohekohe](https://github.com/grassfedreeve/akohekohe/) in mind. However it does still work with larger 30 key hummingbirds or column stagger keyboards.
 
 <br>
 If you are using a larger board, V is placed above C to approximate the statistics more as combos are not considered in layout analysers. You can absolutely move v off of pinky if needed or use the combo on the large board anyway.
@@ -97,7 +100,7 @@ The combo position recommended is easier to reach and use over the pinkie or inn
 <br>
 # Punctuation
 
-Something you will find with modern AKL layouts is the frequent use of ao' and ,i. columns these are pretty much the best format for punctuation for english however when optimising for low pinkie usage and even a single pinky key the standard pink punctuation is no longer an option. By putting E on the right thumb we can keep the ,i. column and put a low frequency vowel U on pinky keeping usage within 3% without sacrificing punctuation.
+Something you will find with modern AKL layouts is the frequent use of ao' and ,i. columns are fairly optimal punctuation options for english. However when optimising for low pinkie usage and even a single pinky key the popular pinky punctuation is no longer an option. By putting E on the right thumb we can keep the ,i. column and put a low frequency vowel U on pinky keeping usage within 3% without sacrificing punctuation.
 
 <br>
 # Thumb Rolls and Redirects
@@ -116,10 +119,10 @@ Finch uses adaptive swaps in order to improve comfort. Adaptive swaps swap the p
 Unlike the rest of the layout I think adaptives may need tweaking and I **encourage** it. Personally due to the yl bigram being very common at my work I have that swap disabled. You may similarly find that you type a word frequently that has a very uncommon bigram. The eu → ee magic is great for removing those repeats but was a bit much on my very injured pinkies.
 
 <br>
-If you don't want to bother with adaptives it is optional, I used finch without any adaptives for a year without any issue. Adaptives here just fix the small pain points such as rl and sy for a more comfortable experience. However Finch has perfectly fine statistics without them, with only 0.438% sfb and very comfortable. 
+If you don't want to bother with adaptives it is optional, I used finch without any adaptives for a year without any issue. Adaptives here just fix the small pain points such as rl and sy for a more comfortable experience. Or add new rolls to replace repeats lw → ll. However Finch has perfectly fine statistics without them, with only 0.438% sfb and very comfortable. 
 
 <br>
-# Statistics without Adaptives 
+## Statistics Without Adaptive Swaps
 
 ```
 MONKEYRACER · SG Left:
@@ -141,6 +144,18 @@ Fspeed: 32.70   (Weighted: 6.68)
   VSB:   2.49   (VSS:   4.97)
 
   LH/RH: 52.55% | 47.45%
-```
+  
+Finger  Usage   Fspeed  WFspeed
+LP      2.76%    0.127    0.085
+LR      7.78%    1.716    0.477
+LM      8.56%    3.655    0.762
+LI     15.14%   12.715    2.312
+RI     13.95%    7.839    1.425
+RM     13.13%    4.342    0.904
+RR      8.06%    2.112    0.587
+RP      2.60%    0.012    0.008
+LT     18.31%    0.068    0.045
+RT      9.71%    0.111    0.074
 
-# Testimonials
+Total           32.696    6.678
+```
