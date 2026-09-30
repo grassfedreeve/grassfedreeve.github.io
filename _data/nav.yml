@@ -1,0 +1,6 @@
+- name: posts
+  link: /posts
+- name: categories
+  link: /categories/
+- name: about
+  link: /

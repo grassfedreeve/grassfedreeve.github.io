@@ -1,0 +1,146 @@
+---
+layout: post
+title:  "Finch"
+date:   2026-09-20 11:55:02 +1000
+categories: keyboard akl
+---
+
+
+
+<div align="center">
+  <img src="/assets/finch.svg" alt="finche">
+</div>
+
+# Introducing Finch
+
+Finch is an alternative keyboard layout inspired by Canary. It uses a thumb alpha and (optional) adaptive swaps. 
+
+<br>
+# Philosophy
+
+Finch was created out of a personal niche for having extremely row pinky usage, high rolls and not compromising on the standard stats for alternative key layouts. 
+
+<br>
+The Inspiration for Finch came from my previous use of Colemak and Aptmak. Colemak was my first time touch typing and Aptmak brought me to using E on my thumb. However eventually with both I ended up with pinky pain from the load from letters like A, O, and R. Canary interested me due to the high rolls, good flow low pinky usage on the left.
+
+<br>
+Pinky usage is really what separates Finch from other layouts, it's not for everyone but if you want to reduce pinky load without sacrificing the rest of the layout it's a great option. 
+<br>
+![finch](/assets/finchaklgg.png)
+
+# Statistics 
+
+```
+MONKEYRACER · SG Left:
+  Alt: 23.47%
+
+ Roll: 61.53%   (In/Out: 31.49% | 30.03%)
+ Rol2: 58.61%   (In/Out: 29.53% | 29.08%)
+ Rol3:  2.92%   (In/Out:  1.96% |  0.96%)
+
+  Red:  5.52%   (Bad:     0.08%)
+ NoTh:  1.12%   (Bad:     0.08%)
+Thumb:  4.40%   (Bad:     0.00%)
+
+  SFB:  0.18%
+  SFS:  4.48%   (Alt/Red: 2.13% | 2.35%)
+Fspeed: 29.95   (Weighted: 6.02)
+
+  LSB:   2.62   (LSS:   3.32)
+  VSB:   2.50   (VSS:   5.22)
+
+  LH/RH: 52.43% | 47.57%
+
+Finger  Usage   Fspeed  WFspeed
+LP      2.74%    0.121    0.080
+LR      7.42%    1.117    0.310
+LM      8.46%    2.169    0.452
+LI     15.70%   13.277    2.414
+RI     14.04%    7.734    1.406
+RM     13.11%    3.290    0.685
+RR      8.07%    2.102    0.584
+RP      2.91%    0.015    0.010
+LT     18.12%    0.063    0.042
+RT      9.44%    0.061    0.041
+
+Total           29.947    6.024
+```
+
+# Intended Use
+
+<br>
+Finch was designed with a low keycount hummingbird keyboard such as my 26 key ʻākohekohe in mind. However it does still work with larger hummingbirds or column stagger keyboards.
+
+<br>
+If you are using a larger board, V is placed above C to approximate the statistics more as combos are not considered in layout analysers. You can absolutely move v off of pinky if needed or use the combo on the large board anyway.
+
+<br>
+You can see my personal keymap with all the combos, layers and fun used to compress a full keyboard down to 25% of the keys below:
+
+<br>
+![personal keymap](/assets/example_keymap.svg)
+
+<br>
+# Combos
+
+This low keycount intends to have V QU Z and J combos instead of dedicated keys. Z and J are infrequent and don't need much explanation.  Q is also infrequent and almost always followed by U so a QU combo is recommend. Adaptive Magic could be used here as well to add a u after q to most letters but I have never bothered to take the time for that.
+
+<br>
+V however is more common and may need more explanation. V is an almost a special case that works really well as a combo. V almost exclusively interacts with vowels, especially “e” and “i”.  So with optimised layouts, it gets pushed to one of the worse positions on the consonant side. Usually top pinky or top inner. 
+
+<br>
+The combo position recommended is easier to reach and use over the pinkie or inner index. It is predictably preceded and followed by a vowel (or space), it is easy to keep a typing flow with the combo. 
+
+<br>
+<sup>This V combo explanation is stolen and reworded from jcmkk3.</sup>
+
+<br>
+# Punctuation
+
+Something you will find with modern AKL layouts is the frequent use of ao' and ,i. columns these are pretty much the best format for punctuation for english however when optimising for low pinkie usage and even a single pinky key the standard pink punctuation is no longer an option. By putting E on the right thumb we can keep the ,i. column and put a low frequency vowel U on pinky keeping usage within 3% without sacrificing punctuation.
+
+<br>
+# Thumb Rolls and Redirects
+
+A good chunk of the rolls in Finch's stats are on the thumbs with space and E, some people do not count or consider thumb rolls as "real." I would argue these are real and can easily be seen by rapidly typing space+the with finch. With left thumb space and right thumb E you can see a nice roll pattern throughout the movement. Swapping thumbs and trying again you can see an uncomfortable redirect instead. 
+
+<br>
+# Adaptive Magic
+
+You can always find the up to date magic rules on [akl.gg](https://akl.gg/#.gQC6MDFNMkNaQUdQTkVTSENEV0VTNUVFVkNCMFg). 
+
+<br>
+Finch uses adaptive swaps in order to improve comfort. Adaptive swaps swap the position of two keys depending on the key that proceeded it. For example system can be quite slow to type with an sy column, to remove this after s is pressed r and y swap places. This way you type s**r**stem to output system. This allows the more common sequences be the comfortable rolls, and the uncommon sequences the SFBs. 
+
+<br>
+Unlike the rest of the layout I think adaptives may need tweaking and I **encourage** it. Personally due to the yl bigram being very common at my work I have that swap disabled. You may similarly find that you type a word frequently that has a very uncommon bigram. The eu → ee magic is great for removing those repeats but was a bit much on my very injured pinkies.
+
+<br>
+If you don't want to bother with adaptives it is optional, I used finch without any adaptives for a year without any issue. Adaptives here just fix the small pain points such as rl and sy for a more comfortable experience. However Finch has perfectly fine statistics without them, with only 0.438% sfb and very comfortable. 
+
+<br>
+# Statistics without Adaptives 
+
+```
+MONKEYRACER · SG Left:
+  Alt: 23.25%
+
+ Roll: 59.96%   (In/Out: 30.40% | 29.56%)
+ Rol2: 57.30%   (In/Out: 28.66% | 28.63%)
+ Rol3:  2.66%   (In/Out:  1.74% |  0.92%)
+
+  Red:  5.03%   (Bad:     0.08%)
+ NoTh:  0.95%   (Bad:     0.08%)
+Thumb:  4.08%   (Bad:     0.00%)
+
+  SFB:  0.44%
+  SFS:  4.44%   (Alt/Red: 2.11% | 2.33%)
+Fspeed: 32.70   (Weighted: 6.68)
+
+  LSB:   2.61   (LSS:   3.32)
+  VSB:   2.49   (VSS:   4.97)
+
+  LH/RH: 52.55% | 47.45%
+```
+
+# Testimonials
