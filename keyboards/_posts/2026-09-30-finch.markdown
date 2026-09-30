@@ -100,7 +100,7 @@ The combo position recommended is easier to reach and use over the pinkie or inn
 <br>
 # Punctuation
 
-Something you will find with modern AKL layouts is the frequent use of ao' and ,i. columns are fairly optimal punctuation options for english. However when optimising for low pinkie usage and even a single pinky key the popular pinky punctuation is no longer an option. By putting E on the right thumb we can keep the ,i. column and put a low frequency vowel U on pinky keeping usage within 3% without sacrificing punctuation.
+Something you will find with modern AKL layouts is the frequent use of ao' and ,i. columns, which are fairly optimal punctuation options for english. However when optimising for a single pinky key the pinky punctuation is no longer an option. By putting E on the right thumb we can keep the ,i. column and put a low frequency vowel U on pinky keeping usage within 3% without sacrificing punctuation.
 
 <br>
 # Thumb Rolls and Redirects
