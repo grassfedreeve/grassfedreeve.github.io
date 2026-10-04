@@ -450,46 +450,6 @@ path.combo { stroke: #7f7f7f; }
 </a><a href="#o_o">
 </a><a href="#o_o">
 </a></g>
-<g class="combo combopos-0">
-<g transform="rotate(20.0, 216.78209341251858, 62.47042844158126)">
-<rect rx="6" ry="6" x="203" y="49" width="28" height="26" class="combo"/>
-<text x="217" y="62" class="combo tap">V</text>
-<a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a></g>
-</g>
-<g class="combo combopos-1">
-<g transform="rotate(20.0, 121.8340934125186, 147.92642844158127)">
-<rect rx="6" ry="6" x="108" y="135" width="28" height="26" class="combo"/>
-<text x="122" y="148" class="combo tap">J</text>
-<a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a></g>
-</g>
-<g class="combo combopos-2">
-<g transform="rotate(20.0, 159.9420934125186, 39.98642844158126)">
-<rect rx="6" ry="6" x="146" y="27" width="28" height="26" class="combo"/>
-<text x="160" y="40" class="combo tap">Z</text>
-<a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a></g>
-</g>
-<g class="combo combopos-3">
-<g transform="rotate(20.0, 176.0140934125186, 169.37442844158127)">
-<rect rx="6" ry="6" x="162" y="156" width="28" height="26" class="combo"/>
-<text x="176" y="169" class="combo tap">QU</text>
-<a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a><a href="#o_o">
-</a></g>
-</g>
 </g>
 </g>
 </svg>
